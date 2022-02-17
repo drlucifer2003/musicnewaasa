@@ -37,22 +37,22 @@ async def start_set(_, query: CallbackQuery):
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❓ Basic Guide", callback_data="user_guide")],
+                [InlineKeyboardButton("❓ للمٓسآعــ✗ــدهـه", callback_data="user_guide")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="command_list"),
-                    InlineKeyboardButton("❤ Donate", url=f"https://t.me/{OWNER_USERNAME}"),
+                    InlineKeyboardButton("📚 آلآؤآمٓــــ✗ــࢪ", callback_data="command_list"),
+                    InlineKeyboardButton("❤ آلمٓــ✗ــطؤࢪ", url=f"https://t.me/{OWNER_USERNAME}"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 𝐒𝐌𝐒𝐌 𝐆𝐑𝐎𝐔𝐏", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📣 𝐒𝐌𝐒𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/levina-lab/video-stream"
+                        "🌐 𝐒𝐌𝐒𝐌 𝐒𝐎𝐔𝐑𝐂𝐄", url="https://t.me/C_SMSM"
                     )
                 ],
             ]
