@@ -13,7 +13,7 @@
     ],
     "website": "https://t.me/levinachannel",
     "repository": "https://github.com/drlucifer2003/musicnewaasa",
-    "success_url": "https://t.me/dlwrml",
+    "success_url": "https://t.me/PV_SMSM",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
